@@ -62,6 +62,9 @@ This project demonstrates concepts of Industrial Automation and Predictive Maint
 ##
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/be284caf-03ac-4785-93b5-64339c1f160b" />
 
+<img width="480" height="354" alt="{5770E074-AB9F-4C7F-9F23-0FE79003AEFE}" src="https://github.com/user-attachments/assets/0e1f8e84-7aed-42db-9e34-896552055eb6" />
+
+
 
 ## 🚀 Future Improvements
 
